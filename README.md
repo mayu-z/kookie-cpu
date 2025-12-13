@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @kookie-cpu<br>I’m interested in web developing<br>I'm a student and a continuous learner<br>I'm learning no-sql right now<br>I’m looking forward to meet new like minded developers<br>How to reach me koookiesenpai@gmail.com<br>
+Hi, I’m @kookie-cpu<br>I’m interested in web developing<br>I'm a student and a continuous learner<br>I'm learning no-sql right now<br>I’m looking forward to meet new like minded developers<br>How to reach me mayuresh2k4@gmail.com<br>
 
 
 ## 🌐 Socials:
