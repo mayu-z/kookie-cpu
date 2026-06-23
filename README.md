@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Mayuresh&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=50)
 
-**Junior DevOps Engineer** · Building infrastructure that scales
+**DevOps Engineer** · Building infrastructure that scales
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=500&height=30&lines=docker+%7C+aws+%7C+terraform+%7C+ci%2Fcd+%7C+kubernetes)](https://git.io/typing-svg)
 
